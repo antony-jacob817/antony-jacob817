@@ -18,7 +18,7 @@
 
 ## 📈 GitHub Activity Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=redical&bg_color=000000&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=redical&bg_color=000000&color=FF0000&hide_border=true" width="100%"/>
 </p>
 
 ---
