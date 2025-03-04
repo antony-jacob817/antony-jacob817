@@ -16,6 +16,13 @@
 
 ---
 
+## 📈 GitHub Activity Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=redical&bg_color=000000&hide_border=true" width="100%"/>
+</p>
+
+---
+
 ## 🌐 Connect with Me:
 <p align="center">
   <a href="https://instagram.com/antony_jacob247"><img src="https://skillicons.dev/icons?i=instagram&theme=dark"/></a>
@@ -45,13 +52,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antony-jacob817&theme=dark&hide_border=false&layout=compact" />
-</p>
-
----
-
-## 📈 GitHub Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=redical&bg_color=000000&hide_border=true" width="100%"/>
 </p>
 
 ---
