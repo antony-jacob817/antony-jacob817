@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=antony-jacob817&repo=awesome-project&theme=radical)](https://github.com/antony-jacob817/donation_Page)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=antony-jacob817&repo=another-cool-project&theme=radical)](https://github.com/antony-jacob817/ToDo-List)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=antony-jacob817&repo=donation_Page&theme=radical)](https://github.com/antony-jacob817/donation_Page)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=antony-jacob817&repo=ToDo-List&theme=radical)](https://github.com/antony-jacob817/ToDo-List)
 
 ## 📝 Latest Blog Posts
 
