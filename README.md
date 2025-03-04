@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Antony Jacob! 👋</h1>
+<h1 align="center" style="color:#FF0000;">Hi there, I'm Antony Jacob! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7D6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,55 +18,48 @@
 
 ## 🌐 Connect with Me:
 <p align="center">
-  <a href="https://instagram.com/antony_jacob247">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/antony-jacob817/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/antonyjacob_817">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:antonyjacob817@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://instagram.com/antony_jacob247"><img src="https://skillicons.dev/icons?i=instagram&theme=dark"/></a>
+  <a href="https://www.linkedin.com/in/antony-jacob817/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a>
+  <a href="https://x.com/antonyjacob_817"><img src="https://skillicons.dev/icons?i=twitter&theme=dark"/></a>
+  <a href="mailto:antonyjacob817@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
 </p>
 
 ---
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,sqlite,postgres,vercel,git,github,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,sqlite,postgres,vercel,git,github,figma,canva&theme=dark" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antony-jacob817&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antony-jacob817&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=antony-jacob817&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antony-jacob817&theme=radical&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antony-jacob817&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antony-jacob817&theme=dark" />
 </p>
 
 ---
 
 ## 📈 GitHub Activity Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=redical&bg_color=000000&hide_border=true" width="100%"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=antony-jacob817&theme=dracula&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=antony-jacob817&theme=onestar&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
 
 ## ✍️ Random Dev Quote:
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
@@ -79,9 +72,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=antony-jacob817&icon=0&color=0"/>
+  <img src="https://visitcount.itsvg.in/api?id=antony-jacob817&icon=0&color=FF0000"/>
 </p>
-
----
-
-<p align="center">🚀 Crafted with ❤️ using <a href="https://gprm.itsvg.in">GPRM</a></p>
