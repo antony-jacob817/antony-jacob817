@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7D6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250"/>
+</p>
+
 ---
 
 ## 💫 About Me:
@@ -38,6 +42,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=antony-jacob817&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=antony-jacob817&theme=radical&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antony-jacob817&theme=radical&hide_border=false&layout=compact" />
+</p>
+
+---
+
+## 📈 Contribution Graph:
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=antony-jacob817&theme=dracula" alt="GitHub Activity Graph" />
 </p>
 
 ---
