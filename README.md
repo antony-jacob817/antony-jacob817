@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7D6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250"/>
-</p>
-
 ---
 
 ## 💫 About Me:
@@ -15,7 +11,7 @@
 - 🌱 Always exploring new technologies to stay ahead of the curve.<br>
 - 👯 Seeking collaboration on open-source projects that create an impact.<br>
 - 💬 Ask me about **JavaScript, Python, Cloud Technologies, and Web Development**.<br>
-- 📫 How to reach me: [Email](mailto:antony.jacob@example.com) | [LinkedIn](https://www.linkedin.com/in/antony-jacob817/)<br>
+- 📫 How to reach me: [Email](mailto:antonyjacob817@gmail.com) | [LinkedIn](https://www.linkedin.com/in/antony-jacob817/)<br>
 - ⚡ Fun fact: I love **hiking** and discovering new places!
 
 ---
@@ -23,7 +19,7 @@
 ## 🌐 Connect with Me:
 <p align="center">
   <a href="https://instagram.com/antony_jacob247"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/antony-jacob817"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/antony-jacob817/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/antonyjacob_817"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
   <a href="mailto:antonyjacob817@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 </p>
@@ -46,9 +42,9 @@
 
 ---
 
-## 📈 Contribution Graph:
+## 📈 GitHub Activity Graph:
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=antony-jacob817&theme=dracula" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=radical" />
 </p>
 
 ---
