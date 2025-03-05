@@ -27,7 +27,8 @@
 <p align="center">
   <a href="https://instagram.com/antony_jacob247"><img src="https://skillicons.dev/icons?i=instagram&theme=dark"/></a>
   <a href="https://www.linkedin.com/in/antony-jacob817/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a>
-  <a href=https://skillicons.dev/icons?i=twitter&theme=dark"</a>
+  <a
+href="https://x.com/antonyjacob_817" src="https://skillicons.dev/icons?i=twitter&theme=dark"</a>
   <a href="mailto:antonyjacob817@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
 </p>
 
