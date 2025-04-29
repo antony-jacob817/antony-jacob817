@@ -1,3 +1,4 @@
+
 <h1 align="center" style="color:#FF0000;">Hi there, I'm Antony Jacob! 👋</h1>
 
 <p align="center">
@@ -25,17 +26,29 @@
 
 ## 🌐 Connect with Me:
 <p align="center">
-  <a href="https://instagram.com/antony_jacob247"><img src="https://skillicons.dev/icons?i=instagram&theme=dark"/></a>
-  <a href="https://www.linkedin.com/in/antony-jacob817/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a>
-  <a href="https://x.com/antonyjacob_817"><img src="https://skillicons.dev/icons?i=twitter&theme=dark"/></a>
-<a href="mailto:antonyjacob817@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
+  <a href="https://instagram.com/antony_jacob247" target="_blank"><img src="https://img.icons8.com/?size=100&id=YtpeVQhQ8USm&format=png&color=000000" width="80"/></a>
+  <a href="https://www.linkedin.com/in/antony-jacob817/" target="_blank"><img src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" width="80"/></a>
+  <a href="https://x.com/antonyjacob_817" target="_blank"><img src="https://img.icons8.com/?size=100&id=hHgWf9QXX9GA&format=png&color=000000" width="80"/></a>
+  <a href="mailto:antonyjacob817@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000" width="80"/></a>
 </p>
 
 ---
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,sqlite,postgres,vercel,git,github,figma,canva&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50"/>
 </p>
 
 ---
