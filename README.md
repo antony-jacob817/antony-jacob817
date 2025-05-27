@@ -59,7 +59,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antony-jacob817&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antony-jacob817&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antony-jacob817&show_icons=true&theme=dark" />
 </p>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=antony-jacob817&theme=dark&hide_border=false" />
