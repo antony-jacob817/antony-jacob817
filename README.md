@@ -14,6 +14,7 @@
 ---
 
 ## 💫 About Me:
+
 - 🔭 I’m currently honing my skills in full-stack development.<br>
 - 🌱 Always exploring new technologies to stay ahead of the curve.<br>
 - 👯 Seeking collaboration on open-source projects that create an impact.<br>
@@ -24,6 +25,7 @@
 ---
 
 ## 📈 GitHub Activity Graph:
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=redical&bg_color=00000000&color=DA7885&hide_border=true&point=D0737F&line=BB8470" width="100%"/>
 </p>
@@ -31,6 +33,7 @@
 ---
 
 ## 🌐 Connect with Me:
+
 <p align="center">
   <a href="https://instagram.com/antony_jacob247" target="_blank"><img src="https://img.icons8.com/?size=100&id=YtpeVQhQ8USm&format=png&color=000000" width="80"/></a>
   <a href="https://www.linkedin.com/in/antony-jacob817/" target="_blank"><img src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" width="80"/></a>
@@ -41,6 +44,7 @@
 ---
 
 ## 💻 Tech Stack:
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
@@ -61,6 +65,10 @@
 ---
 
 ## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats">
+</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antony-jacob817&theme=date_night" />
 </p>
@@ -72,6 +80,7 @@
 ---
 
 ## 🏆 GitHub Trophies:
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=antony-jacob817&no-frame=true&no-bg=true&theme=radical" />
 </p>
@@ -79,6 +88,7 @@
 ---
 
 ## ✍️ Random Dev Quote:
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=dark&quoteColor=CA6F7B&backgroundColor=170F0C&authorColor=6F554E&symbolColor=6F554E" />
 </p>
@@ -86,12 +96,12 @@
 ---
 
 ## 🔝 Top Languages:
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=antony-jacob817&theme=date-night&hide_border=true" />
+  <img src="./profile/top-langs.svg" alt="Top Languages">
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antony-jacob817&theme=date_night" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antony-jacob817&theme=date_night" />
+  <img src="https://streak-stats.demolab.com/?user=antony-jacob817&theme=date-night&hide_border=true" />
 </p>
 
 ---
