@@ -1,13 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=871717&height=65&section=header" width="100%"/>
+<h1 align="center">Hi there, I'm Antony Jacob! 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <a href="https://antonyjacob.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-990000?style=for-the-badge&logo=rocket&logoColor=white" alt="My Portfolio">
   </a>
-</p>
-<h1 align="center" style="color:#FF0000;">Hi there, I'm Antony Jacob! 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
