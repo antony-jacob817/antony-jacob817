@@ -13,7 +13,7 @@
 
 ## 💫 About Me:
 
-<img src="coding-animation.gif" align="right" width="300" alt="Coding Animation" />
+<img src="coding-animation.gif" align="right" width="280" alt="Coding Animation" />
 
 - 🔭 I’m currently honing my skills in full-stack development.<br>
 
