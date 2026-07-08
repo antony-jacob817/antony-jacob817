@@ -87,7 +87,7 @@
 
 ## 🔝 Top Languages:
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=antony-jacob817&theme=date-night" />
+  <img src="https://streak-stats.demolab.com/?user=antony-jacob817&theme=date-night&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antony-jacob817&theme=date-night" />
