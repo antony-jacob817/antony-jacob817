@@ -73,7 +73,7 @@
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy-ruddy.vercel.app/?username=antony-jacob817&no-frame=true&no-bg=true&theme=monokai" />
+  <img src="https://github-profile-trophy.vercel.app/?username=antony-jacob817&no-frame=true&no-bg=true&theme=radical" />
 </p>
 
 ---
@@ -90,7 +90,7 @@
   <img src="https://streak-stats.demolab.com/?user=antony-jacob817&theme=date-night&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antony-jacob817&theme=date-night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antony-jacob817&theme=date_night" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antony-jacob817&theme=date_night" />
 </p>
 
