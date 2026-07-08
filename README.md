@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=871717&height=65&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DA7885&height=65&section=header" width="100%"/>
 <h1 align="center">Hi there, I'm Antony Jacob! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DA7885&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://antonyjacob.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-990000?style=for-the-badge&logo=rocket&logoColor=white" alt="My Portfolio">
+    <img src="https://img.shields.io/badge/My%20Portfolio-A75C65?style=for-the-badge&logo=rocket&logoColor=white" alt="My Portfolio">
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 ## 📈 GitHub Activity Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=redical&bg_color=00000000&color=FF0000&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=redical&bg_color=00000000&color=DA7885&hide_border=true&point=D0737F&line=BB8470" width="100%"/>
 </p>
 
 ---
@@ -100,4 +100,4 @@
 <p align="center">
   <img src="https://github.com/antony-jacob817/antony-jacob817/blob/output/github-snake-dark.svg"/>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=871717&height=65&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DA7885&height=65&section=footer" width="100%"/>
