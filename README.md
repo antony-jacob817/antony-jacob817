@@ -98,3 +98,10 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=antony-jacob817&icon=0&color=FF0000"/>
 </p>
+
+---
+
+## 🎛️ My Contributions:
+<p align="center">
+  <img src="https://github.com/antony-jacob817/antony-jacob817/blob/output/github-snake-dark.svg"/>
+</p>
