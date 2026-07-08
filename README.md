@@ -13,7 +13,7 @@
 
 ## 💫 About Me:
 
-<img src="coding-animation.gif" align="right" width="350" alt="Coding Animation" />
+<img src="coding-animation.gif" align="right" width="300" alt="Coding Animation" />
 
 - 🔭 I’m currently honing my skills in full-stack development.<br>
 
@@ -23,9 +23,9 @@
 
 - 💬 Ask me about **JavaScript, Python, Cloud Technologies, and Web Development**.<br>
 
-- ⚡ Fun fact: I love **hiking** and discovering new places!<br
+- ⚡ Fun fact: I love **hiking** and discovering new places!<br><br>
                                                              
-- 🌐 Connect with Me: <a href="https://instagram.com/antony_jacob247" target="_blank"><img src="https://img.icons8.com/?size=100&id=YtpeVQhQ8USm&format=png&color=000000" width="40" align="absmiddle"/></a><a href="https://www.linkedin.com/in/antony-jacob817/" target="_blank"><img src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" width="40" align="absmiddle"/></a><a href="https://x.com/antonyjacob_817" target="_blank"><img src="https://img.icons8.com/?size=100&id=hHgWf9QXX9GA&format=png&color=000000" width="40" align="absmiddle"/></a><a href="mailto:antonyjacob817@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000" width="40" align="absmiddle"/></a>
+- 🌐 Connect with Me: <a href="https://instagram.com/antony_jacob247" target="_blank"><img src="https://img.icons8.com/?size=100&id=YtpeVQhQ8USm&format=png&color=000000" width="60" align="absmiddle"/></a><a href="https://www.linkedin.com/in/antony-jacob817/" target="_blank"><img src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" width="60" align="absmiddle"/></a><a href="https://x.com/antonyjacob_817" target="_blank"><img src="https://img.icons8.com/?size=100&id=hHgWf9QXX9GA&format=png&color=000000" width="60" align="absmiddle"/></a><a href="mailto:antonyjacob817@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000" width="60" align="absmiddle"/></a><br><br>
 
 - 💻 Tech Stack: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" align="absmiddle"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" align="absmiddle"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" align="absmiddle"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40" align="absmiddle"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" align="absmiddle"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" align="absmiddle"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express&theme=dark" width="40" align="absmiddle"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40" align="absmiddle"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" align="absmiddle"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="40" align="absmiddle"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" align="absmiddle"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="40" align="absmiddle"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" align="absmiddle"/>&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" align="absmiddle"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" align="absmiddle"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" align="absmiddle"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=flask&theme=dark" width="40" align="absmiddle"/>
 <br clear="both">
