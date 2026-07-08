@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=871717&height=65&section=header" width="100%"/>
 <p align="center">
   <a href="https://antonyjacob.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-990000?style=for-the-badge&logo=rocket&logoColor=white" alt="My Portfolio">
@@ -23,7 +24,7 @@
 
 ## 📈 GitHub Activity Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=redical&bg_color=000000&color=FF0000&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=redical&bg_color=00000000&color=FF0000&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -60,43 +61,36 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antony-jacob817&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antony-jacob817&theme=date_night" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antony-jacob817&show_icons=true&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=antony-jacob817&theme=dark&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antony-jacob817&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antony-jacob817&theme=date_night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antony-jacob817&theme=date_night" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=antony-jacob817&theme=onestar&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy-ruddy.vercel.app/?username=antony-jacob817&no-frame=true&no-bg=true&theme=monokai" />
 </p>
 
 ---
 
 ## ✍️ Random Dev Quote:
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=dark&quoteColor=CA6F7B&backgroundColor=170F0C&authorColor=6F554E&symbolColor=6F554E" />
 </p>
 
 ---
 
-## 🔝 Top Contributed Repositories:
+## 🔝 Top Languages:
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=antony-jacob817&limit=5&theme=city_lights&combine_all_yearly_contributions=true" />
+  <img src="https://streak-stats.demolab.com/?user=antony-jacob817&theme=date-night" />
 </p>
-
----
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=antony-jacob817&icon=0&color=FF0000"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antony-jacob817&theme=date-night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antony-jacob817&theme=date_night" />
 </p>
 
 ---
@@ -105,3 +99,4 @@
 <p align="center">
   <img src="https://github.com/antony-jacob817/antony-jacob817/blob/output/github-snake-dark.svg"/>
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=871717&height=65&section=footer" width="100%"/>
