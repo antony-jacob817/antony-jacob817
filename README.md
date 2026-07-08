@@ -79,18 +79,17 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=antony-jacob817&no-frame=true&no-bg=true&theme=radical" />
-</p>
-
----
-
 ## ✍️ Random Dev Quote:
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=dark&quoteColor=CA6F7B&backgroundColor=170F0C&authorColor=6F554E&symbolColor=6F554E" />
+</p>
+
+---
+
+## 🎛️ My Contributions:
+<p align="center">
+  <img src="https://github.com/antony-jacob817/antony-jacob817/blob/output/github-snake-dark.svg"/>
 </p>
 
 ---
@@ -104,10 +103,4 @@
   <img src="https://streak-stats.demolab.com/?user=antony-jacob817&theme=date-night&hide_border=true" />
 </p>
 
----
-
-## 🎛️ My Contributions:
-<p align="center">
-  <img src="https://github.com/antony-jacob817/antony-jacob817/blob/output/github-snake-dark.svg"/>
-</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DA7885&height=65&section=footer" width="100%"/>
