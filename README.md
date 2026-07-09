@@ -52,7 +52,7 @@
 ## ✍️ Random Dev Quote:
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=dark&quoteColor=CA6F7B&backgroundColor=2D2123&authorColor=6F554E&symbolColor=6F554E" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=CA6F7B&backgroundColor=2D2123&authorColor=6F554E&symbolColor=6F554E" />
 </p>
 
 ## 🎛️ My Contributions:
