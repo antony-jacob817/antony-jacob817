@@ -42,11 +42,11 @@
   <img src="./profile/stats.svg" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antony-jacob817&theme=date_night" />
+  <img src="./custom-cards/profile-details.svg" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=antony-jacob817&theme=date_night" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antony-jacob817&theme=date_night" />
+<p align="center">  
+  <img src="./custom-cards/stats.svg" />
+  <img src="./custom-cards/productive-time.svg" />
 </p>
 
 ## ✍️ Random Dev Quote:
