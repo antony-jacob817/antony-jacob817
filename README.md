@@ -66,7 +66,7 @@
   <img src="./profile/top-langs.svg" alt="Top Languages">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=antony-jacob817&theme=date-night&background=2D2123&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=antony-jacob817&theme=date-night&hide_border=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DA7885&height=65&section=footer" width="100%"/>
