@@ -57,7 +57,10 @@ jobs:
       # 4.5. Pad the SVG viewBox to prevent the snake from getting cut off at the borders
       - name: Fix SVG Clipping (Add Internal Canvas Padding)
         run: |
-          # Shift the elements down/right by 10px and expand the total canvas size by 20px
+          # Grant full write access to the dist folder
+          sudo chmod -R 777 dist
+          
+          # Inject the padding style into the SVG files
           sed -i 's/<svg/<svg style="padding: 10px;"/g' dist/github-snake-dark.svg
           sed -i 's/<svg/<svg style="padding: 10px;"/g' dist/github-snake.svg
 
