@@ -67,10 +67,15 @@ jobs:
           # Add directories
           git add profile/ custom-cards/
           
-          # Only commit and push if changes exist to avoid empty commit errors
+          # Only proceed if changes exist to avoid empty commit errors
           if ! git diff --cached --quiet; then
             git commit -m "chore: update profile metrics and custom cards [skip ci]"
-            git push origin main
+            
+            # Fetch remote changes and rebase our new commit on top of whatever is fresh on main
+            git fetch origin main
+            git rebase origin/main
+            
+            git push origin HEAD:main
           else
             echo "No profile metric updates detected."
           fi
