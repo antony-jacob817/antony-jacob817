@@ -33,7 +33,7 @@
 ## 📈 GitHub Activity Graph:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=redical&bg_color=00000000&color=DA7885&hide_border=true&point=D0737F&line=BB8470" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=redical&bg_color=00000000&color=DA7885&hide_border=true&point=D0737F&line=BB8470&cache_bypass=1" width="100%"/>
 </p>
 
 ## 📊 GitHub Stats:
@@ -57,7 +57,7 @@
 
 ## 🎛️ My Contributions:
 <p align="center">
-  <img src="https://github.com/antony-jacob817/antony-jacob817/blob/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/antony-jacob817/antony-jacob817/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ## ⏮️ Summary:
@@ -66,7 +66,7 @@
   <img src="./profile/top-langs.svg" alt="Top Languages">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=antony-jacob817&theme=date-night&background=2D2123&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=antony-jacob817&theme=date-night&background=2D2123&hide_border=true&cache_bypass=1" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DA7885&height=65&section=footer" width="100%"/>
