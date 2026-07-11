@@ -41,12 +41,12 @@
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub Stats">
 </p>
-<p align="center">
-  <img src="./custom-cards/profile-details.svg" />
-</p>
 <p align="center">  
   <img src="./custom-cards/stats.svg" />
   <img src="./custom-cards/productive-time.svg" />
+</p>
+<p align="center">
+  <img src="./custom-cards/profile-details.svg" />
 </p>
 
 ## ✍️ Random Dev Quote:
@@ -60,7 +60,7 @@
   <img src="https://github.com/antony-jacob817/antony-jacob817/blob/output/github-snake-dark.svg"/>
 </p>
 
-## 🔝 Top Languages:
+## ⏮️ Summary:
 
 <p align="center">
   <img src="./profile/top-langs.svg" alt="Top Languages">
