@@ -54,6 +54,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # 4.5. Pad the SVG viewBox to prevent the snake from getting cut off at the borders
+      - name: Fix SVG Clipping (Add Internal Canvas Padding)
+        run: |
+          # Shift the elements down/right by 10px and expand the total canvas size by 20px
+          sed -i 's/<svg/<svg style="padding: 10px;"/g' dist/github-snake-dark.svg
+          sed -i 's/<svg/<svg style="padding: 10px;"/g' dist/github-snake.svg
+
       # 5. Commit the local SVGs back to the main branch
       - name: Commit and Push Main Branch Changes
         run: |
