@@ -1,0 +1,85 @@
+name: Update Profile Metrics & Snake
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # Runs daily at midnight UTC to keep stats fresh
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # 1. Checkout repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 2. Generate stats and top languages cards (from cards.yml)
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&bg_color=140f0f&title_color=DA7885&text_color=BB8470&icon_color=BB8470&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&custom_title=Top%20Languages&hide=jupyter-notebook&bg_color=140f0f&title_color=DA7885&text_color=BB8470&icon_color=BB8470&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Fetch and modify summary cards via curl & sed (from custom-stats.yml)
+      - name: Fetch and Modify SVGs
+        run: |
+          mkdir -p custom-cards
+          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${{ github.repository_owner }}&theme=date_night" | sed 's/#170f0c/#2D2123/gi' > custom-cards/profile-details.svg
+          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=${{ github.repository_owner }}&theme=date_night" | sed 's/#170f0c/#2D2123/gi' > custom-cards/stats.svg
+          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=${{ github.repository_owner }}&theme=date_night" | sed 's/#170f0c/#2D2123/gi' > custom-cards/productive-time.svg
+
+      # 4. Generate the snake animations into a local temporary folder (from snake.yml)
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?color_snake=#DA7885&color_dots=#2D2123,#60353b,#894751,#b15966,#d96b7b
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 5. Commit the local SVGs back to the main branch
+      - name: Commit and Push Main Branch Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Add directories
+          git add profile/ custom-cards/
+          
+          # Only commit and push if changes exist to avoid empty commit errors
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update profile metrics and custom cards [skip ci]"
+            git push origin main
+          else
+            echo "No profile metric updates detected."
+          fi
+
+      # 6. Deploy the generated snake animation assets to the separate 'output' branch
+      - name: Deploy Snake to Output Branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation [skip ci]"
