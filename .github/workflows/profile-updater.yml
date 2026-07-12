@@ -66,8 +66,8 @@ jobs:
         run: |
           TIMESTAMP=$(date +%s)
           
-          sed -i "/START_STREAK_CARD/,/END_STREAK_CARD/s/\(&v=\)[0-9]*/\1$TIMESTAMP/" README.md
-          sed -i "/START_ACTIVITY_GRAPH/,/END_ACTIVITY_GRAPH/s/\(&v=\)[0-9]*/\1$TIMESTAMP/" README.md
+          sed -i "/<!--START_STREAK_CARD-->/,/<!--END_STREAK_CARD-->/s/\(&v=\)[0-9]*/\1$TIMESTAMP/" README.md
+          sed -i "/<!--START_ACTIVITY_GRAPH-->/,/<!--END_ACTIVITY_GRAPH-->/s/\(&v=\)[0-9]*/\1$TIMESTAMP/" README.md
           
           git add README.md
 
