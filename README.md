@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Antony Jacob! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DA7885&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DA7885&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast;AI+Integration+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
