@@ -1,4 +1,4 @@
-<img width="1033" height="592" alt="image" src="https://github.com/user-attachments/assets/f3809b55-ec89-4d33-a35a-7251784290b4" /><img src="banner-animation.gif" width="100%"/>
+<img src="banner-animation.gif" width="100%"/>
 <h1 align="center">Hi there, I'm Antony Jacob! 👋</h1>
 
 <p align="center">
