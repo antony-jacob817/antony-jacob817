@@ -1,4 +1,4 @@
-<img src="banner-animation.gif" width="100%"/>
+<img width="1033" height="592" alt="image" src="https://github.com/user-attachments/assets/f3809b55-ec89-4d33-a35a-7251784290b4" /><img src="banner-animation.gif" width="100%"/>
 <h1 align="center">Hi there, I'm Antony Jacob! 👋</h1>
 
 <p align="center">
@@ -33,9 +33,9 @@
 ## 📈 GitHub Activity Graph:
 
 <p align="center">
-  START_ACTIVITY_GRAPH
+  <!--START_ACTIVITY_GRAPH-->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=redical&bg_color=00000000&color=DA7885&hide_border=true&point=D0737F&line=BB8470&v=123" width="100%"/>
-  END_ACTIVITY_GRAPH
+  <!--END_ACTIVITY_GRAPH-->
 </p>
 ## 📊 GitHub Stats:
 
@@ -67,9 +67,9 @@
   <img src="./profile/top-langs.svg" alt="Top Languages">
 </p>
 <p align="center">
-  START_STREAK_CARD
+  <!--START_STREAK_CARD-->
   <img src="https://streak-stats.demolab.com/?user=antony-jacob817&theme=date-night&background=2D2123&hide_border=true&v=123" />
-  END_STREAK_CARD
+  <!--END_STREAK_CARD-->
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DA7885&height=65&section=footer" width="100%"/>
