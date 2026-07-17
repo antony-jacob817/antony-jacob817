@@ -34,7 +34,7 @@
 
 <p align="center">
   <!--START_ACTIVITY_GRAPH-->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=redical&bg_color=00000000&color=DA7885&hide_border=true&point=D0737F&line=BB8470&v=1784235862" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=redical&bg_color=00000000&color=DA7885&hide_border=true&point=D0737F&line=BB8470&v=1784256791" width="100%"/>
   <!--END_ACTIVITY_GRAPH-->
 </p>
 ## 📊 GitHub Stats:
@@ -68,7 +68,7 @@
 </p>
 <p align="center">
   <!--START_STREAK_CARD-->
-  <img src="https://streak-stats.demolab.com/?user=antony-jacob817&theme=date-night&background=2D2123&hide_border=true&v=1784235862" />
+  <img src="https://streak-stats.demolab.com/?user=antony-jacob817&theme=date-night&background=2D2123&hide_border=true&v=1784256791" />
   <!--END_STREAK_CARD-->
 </p>
 
