@@ -37,6 +37,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=antony-jacob817&theme=redical&bg_color=00000000&color=DA7885&hide_border=true&point=D0737F&line=BB8470&v=1784480497" width="100%"/>
   <!--END_ACTIVITY_GRAPH-->
 </p>
+
 ## 📊 GitHub Stats:
 
 <p align="center">
@@ -50,13 +51,8 @@
   <img src="./custom-cards/profile-details.svg" />
 </p>
 
-## ✍️ Random Dev Quote:
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=CA6F7B&backgroundColor=2D2123&authorColor=6F554E&symbolColor=6F554E" alt="Dev Quote" />
-</p>
-
 ## 🎛️ My Contributions:
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/antony-jacob817/antony-jacob817/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
@@ -71,5 +67,7 @@
   <img src="https://streak-stats.demolab.com/?user=antony-jacob817&theme=date-night&background=2D2123&hide_border=true&v=1784480497" />
   <!--END_STREAK_CARD-->
 </p>
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=CA6F7B&backgroundColor=2D2123&authorColor=6F554E&symbolColor=6F554E&maxChar=120" alt="Dev Quote" />
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DA7885&height=65&section=footer" width="100%"/>
