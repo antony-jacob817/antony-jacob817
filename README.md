@@ -41,14 +41,14 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
+  <img src="./custom-cards/profile-details.svg" />
+</p>
+<p align="center">
   <img src="./profile/stats.svg" alt="GitHub Stats">
 </p>
 <p align="center">  
   <img src="./custom-cards/stats.svg" />
   <img src="./custom-cards/productive-time.svg" />
-</p>
-<p align="center">
-  <img src="./custom-cards/profile-details.svg" />
 </p>
 
 ## 🎛️ My Contributions:
